@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1478278291 source:d:\acse\2 year\1 semester\acs 223\c++\assignment - solar panels\building.cpp
+	"building.h"
+	<string>
+
+1478624599 source:d:\acse\2 year\1 semester\acs 223\c++\assignment - solar panels\main.cpp
+	"appliances.h"
+	"solarPanel.h"
+	"building.h"
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+
+1478085016 d:\acse\2 year\1 semester\acs 223\c++\assignment - solar panels\appliances.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1479082331 d:\acse\2 year\1 semester\acs 223\c++\assignment - solar panels\solarpanel.h
+
+1478130868 d:\acse\2 year\1 semester\acs 223\c++\assignment - solar panels\building.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1478539555 source:d:\acse\2 year\1 semester\acs 223\c++\assignment - solar panels\solarpanel.cpp
+	"solarPanel.h"
+
+1478085055 source:d:\acse\2 year\1 semester\acs 223\c++\assignment - solar panels\appliances.cpp
+	"appliances.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1479085969 source:c:\users\justas\desktop\jobs\!github projects\assignment - solar panels\appliances.cpp
+	"appliances.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1479085956 c:\users\justas\desktop\jobs\!github projects\assignment - solar panels\appliances.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1479085899 source:c:\users\justas\desktop\jobs\!github projects\assignment - solar panels\building.cpp
+	"building.h"
+	<string>
+
+1478134468 c:\users\justas\desktop\jobs\!github projects\assignment - solar panels\building.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1478543155 source:c:\users\justas\desktop\jobs\!github projects\assignment - solar panels\solarpanel.cpp
+	"solarPanel.h"
+
+1479085931 c:\users\justas\desktop\jobs\!github projects\assignment - solar panels\solarpanel.h
+
+1479086466 source:c:\users\justas\desktop\jobs\!github projects\assignment - solar panels\main.cpp
+	"appliances.h"
+	"solarPanel.h"
+	"building.h"
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+
+1557614483 source:c:\users\justas\desktop\jobs\!github projects\idk about this_assignment - solar panels\appliances.cpp
+	"Appliances.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1557613912 c:\users\justas\desktop\jobs\!github projects\idk about this_assignment - solar panels\appliances.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1557613988 source:c:\users\justas\desktop\jobs\!github projects\idk about this_assignment - solar panels\building.cpp
+	"Building.h"
+	<string>
+
+1557613999 c:\users\justas\desktop\jobs\!github projects\idk about this_assignment - solar panels\building.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1557614267 source:c:\users\justas\desktop\jobs\!github projects\idk about this_assignment - solar panels\main.cpp
+	"Appliances.h"
+	"SolarPanel.h"
+	"Building.h"
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+
+1557614037 c:\users\justas\desktop\jobs\!github projects\idk about this_assignment - solar panels\solarpanel.h
+
+1557614028 source:c:\users\justas\desktop\jobs\!github projects\idk about this_assignment - solar panels\solarpanel.cpp
+	"SolarPanel.h"
+
